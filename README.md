@@ -26,7 +26,7 @@ Traditional coaching relies heavily on intuition and experience. This project ex
 | Random Forest | 0.063 | 0.98 |
 | Gradient Boosting | 0.062 | 0.97 |
 
-> **Note:** The Gradient Boosting result shown above (R² ≈ 1.0) is consistent with overfitting or data leakage rather than genuine model performance, and shouldn't be read as a real-world benchmark. The Random Forest results are the more defensible and representative outcome from this analysis.
+> **Note:** If the Gradient Boosting result shown above (R² ≈ 1.0) is consistent with overfitting or data leakage rather than genuine model performance, and shouldn't be read as a real-world benchmark. The Random Forest results are the more defensible and representative outcome from this analysis.
 
 Key findings:
 - Random Forest and Gradient Boosting regressors effectively predicted per-ball performance
